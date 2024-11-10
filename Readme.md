@@ -1,5 +1,3 @@
-### README.md
-
 # Ocean Thermal Energy Conversion (OTEC) System Simulation
 
 This repository contains a Jupyter notebook that simulates the thermodynamic processes in an Ocean Thermal Energy Conversion (OTEC) system. OTEC systems utilize the temperature difference between warm surface seawater and cold deep seawater to drive a thermodynamic cycle, which can generate renewable electrical power. This simulation calculates key properties such as efficiency, work output, and heat transfer using various working fluids and provides a comparative analysis of their performance.
